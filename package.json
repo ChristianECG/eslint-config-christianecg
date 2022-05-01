@@ -1,20 +1,28 @@
 {
-  "name": "eslint-config-christianecg",
-  "version": "1.0.0",
-  "description": "A professional ESLint configuration",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "eslint",
-    "eslint-config"
-  ],
-  "author": "Christian Elías <contacto@christianecg.com>",
-  "license": "MIT",
-  "dependencies": {
-    "eslint": "^8.14.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.5.0"
-  }
+	"name": "eslint-config-christianecg",
+	"version": "1.0.1",
+	"description": "A professional ESLint configuration",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"eslint",
+		"eslint-config"
+	],
+	"author": "Christian Elías <contacto@christianecg.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.14.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-config-prettier": "^8.5.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ChristianECG/eslint-config-christianecg.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ChristianECG/eslint-config-christianecg/issues"
+	},
+	"homepage": "https://www.npmjs.com/package/eslint-config-christianecg"
 }
