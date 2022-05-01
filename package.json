@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-christianecg",
+  "version": "1.0.0",
+  "description": "A professional ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Christian Elías <contacto@christianecg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0"
+  }
+}
